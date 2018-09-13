@@ -1,22 +1,3 @@
-/* 
-    Functions Lab
-    Updated By: Tanner D.
-    CSCI 111
-    Date:9/13/18
-    Program prompts user to enter two points in the form (x1, y1) and (x2, y2) and finds the
-        distance between the twi points using a function.
-    Algorithm steps:
-    1.Define a function called findDistance(...) that taked four parameters x1, y1 and x2
-        y2 as two points
-        a. finds the distance between them using the equation: √ ((x2-x1)^2 + (y2-y1)^2) !!!
-        b. returns the calculated distance value
-    2. prompt user to enter four numbers
-    3. Convert the values into float and store them into variables
-    4. call function getDistance by passing 4 entered numbers as arguments
-    5. display results with proper description. Format output numbers to 2 decimal points.
-    6. Test and validate that program output is correct for a given set of input points
-    7. BONUS - (10 points) Using a loop repeat step 2-6 until the user wants to quit.
-*/
 
 // git init
 // git add .
